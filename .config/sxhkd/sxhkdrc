@@ -1,0 +1,44 @@
+# Mail 
+mod4 + m
+	thunderbird
+# Browser
+mod4 + b
+	brave
+
+# Sketch 
+mod4 + d
+	krita
+
+# Language
+mod4 + L
+	setxkbmap us
+
+mod4 + l
+	setxkbmap ca
+
+# Slicers
+mod4 + S
+	cura
+mod4 + s 
+	./dl/chitubox/CHITUBOX
+
+# Cad
+mod4 + c
+	openscad
+mod4 + C
+	blender
+
+# Time and power
+mod4 + T
+	mimic_time `date +%H:%M`
+mod4 + P
+	mimic -t 'remaining power is' && mimic -t `~/bat
+
+mod4 + Q
+	sxiv med/pic/ucl/*/* med/pic/ucl/*
+
+mod4 + t
+	st
+
+mod4 + T 
+	remmina
